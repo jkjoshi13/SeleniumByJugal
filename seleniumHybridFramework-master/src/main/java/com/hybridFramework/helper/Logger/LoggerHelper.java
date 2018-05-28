@@ -5,10 +5,7 @@ import org.apache.log4j.PropertyConfigurator;
 
 import com.hybridFramework.utility.ResourceHelper;
 
-/**
- * @author Bhanu Pratap
- * https://www.youtube.com/user/MrBhanupratap29/playlists
- */
+
 @SuppressWarnings("rawtypes")
 public class LoggerHelper {
 

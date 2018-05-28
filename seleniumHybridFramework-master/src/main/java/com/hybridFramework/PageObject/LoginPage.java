@@ -13,11 +13,7 @@ import com.hybridFramework.helper.genericHelper.GenericHelper;
 import com.hybridFramework.testBase.Config;
 import com.hybridFramework.testBase.TestBase;
 
-/**
- * 
- * @author Bhanu Pratap
- * https://www.youtube.com/user/MrBhanupratap29/playlists
- */
+
 public class LoginPage{
 	
 	WebDriver driver;

@@ -11,10 +11,7 @@ import org.openqa.selenium.WebDriver;
 import com.hybridFramework.helper.Logger.LoggerHelper;
 import com.hybridFramework.testBase.TestBase;
 
-/**
- * @author Bhanu Pratap
- * https://www.youtube.com/user/MrBhanupratap29/playlists
- */
+
 public class BrowserHelper{
 
 	private WebDriver driver;
